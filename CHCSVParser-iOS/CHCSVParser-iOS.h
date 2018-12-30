@@ -8,11 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for CHCSVParser-iOS.
-FOUNDATION_EXPORT double CHCSVParser_iOSVersionNumber;
+//! Project version number for CHCSVParser.
+FOUNDATION_EXPORT double CHCSVParserVersionNumber;
 
-//! Project version string for CHCSVParser-iOS.
-FOUNDATION_EXPORT const unsigned char CHCSVParser_iOSVersionString[];
+//! Project version string for CHCSVParser.
+FOUNDATION_EXPORT const unsigned char CHCSVParserVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <CHCSVParser_iOS/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import <CHCSVParser/PublicHeader.h>
 #import "CHCSVParser.h"
